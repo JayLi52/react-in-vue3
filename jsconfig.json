@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "allowImportingTsExtensions": true,
+    "jsx": "react"
+  },
+  "exclude": ["node_modules", "dist"]
+}

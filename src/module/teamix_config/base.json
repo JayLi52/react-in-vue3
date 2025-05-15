@@ -1,0 +1,11 @@
+{
+  "name": "CopWidgets",
+  "title": "组件在领域的名称",
+  "type": "module",
+  "libraryExport": "Default",
+  "domains": [],
+  "renderConfig": {
+    "isFull": true,
+    "wrapType": "grid"
+  }
+}

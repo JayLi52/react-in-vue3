@@ -1,0 +1,13 @@
+[
+  {
+    "name": "title",
+    "title": "标题",
+    "setter": {
+      "propType": "string",
+      "component": "textSetter"
+    },
+    "display": "left",
+    "category": "content",
+    "initialValue": ""
+  }
+]

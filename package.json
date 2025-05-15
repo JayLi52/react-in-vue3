@@ -1,0 +1,29 @@
+{
+  "name": "vue-project",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ali/teamix-pro": "^1.5.211-beta.19",
+    "@ali/teamix-ui": "^1.6.5",
+    "@alife/teamix-uni-table": "^0.1.0",
+    "@teamix/pro": "^1.5.53",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "react-to-webcomponent": "^2.0.1",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@types/react": "^16.14.63",
+    "@types/react-dom": "^16.9.25",
+    "@vitejs/plugin-vue": "^5.2.3",
+    "vite": "^6.2.4",
+    "vite-plugin-html": "^3.2.2",
+    "vite-plugin-vue-devtools": "^7.7.2"
+  }
+}
